@@ -2,6 +2,11 @@
 Resources for the MA933 Stochastic Modelling and Random Processes module.
 My thanks to Kamran Pentland and Susana Gomes for creating these resources. 
 
+You can clone this repository using
+```bash
+git clone https://github.com/AJNugent2/MA933
+```
+
 This project uses python 3.9. You can create a new conda virtual environment with the following command.
 ```bash
 conda create -n MA933 python=3.9.12
