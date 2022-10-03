@@ -5,7 +5,7 @@ The module webpage can be found [here](https://warwick.ac.uk/fac/sci/mathsys/cou
 
 Lecturer: [Susana Gomes](https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/) 
 
-Teaching Assistant: [Andrew Nugent](https://warwick.ac.uk/fac/sci/mathsys/people/students/2021intake/nugent/)
+Teaching Assistant: [Andrew Nugent](https://warwick.ac.uk/fac/sci/mathsys/people/students/2021intake/nugent/) (a.nugent@warwick.ac.uk)
 
 ## Setup
 
