@@ -1,5 +1,5 @@
 # MA933 - Stochastic Modelling and Random Processes
-My thanks to Kamran Pentland and Susana Gomes for creating these resources, and to Jack Buckingham for originally writing most of this README. 
+My thanks to Kamran Pentland and Emma Southall for creating these resources, and to Jack Buckingham for originally writing most of this README. 
 
 The module webpage can be found [here](https://warwick.ac.uk/fac/sci/mathsys/courses/msc/ma933/).
 
