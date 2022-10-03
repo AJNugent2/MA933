@@ -1,5 +1,4 @@
-# MA933
-Resources for the MA933 Stochastic Modelling and Random Processes module.
+# MA933 - Stochastic Modelling and Random Processes
 My thanks to Kamran Pentland and Susana Gomes for creating these resources. 
 
 You can clone this repository using the following command. This will create a folder called MA933 containing the respository (so you don't need to make a folder first). Go to your Documents folder and enter:
