@@ -11,14 +11,15 @@ Then activate it using
 conda activate MA933
 ```
 After doing this, you should see the environment name in brackets at the beginning of your command prompt.
+
+Then install package versions listed in `requirements.txt`.
+```bash
+conda install --file requirements.txt
+```
+
 If you are slightly lazy (like me) you can make an alias that will open the MA933 folder and activate the environment together. 
 
 In bash aliases add 
 ```bash
 alias ma933='cd ~/Documents/MA933 && conda activate MA933'
-```
-
-Then install package versions listed in `requirements.txt`.
-```bash
-conda install --file requirements.txt
 ```
