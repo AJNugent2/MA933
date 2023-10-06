@@ -151,7 +151,6 @@ qtwebkit=5.212=h4eab89a_4
 readline=8.1.2=h7f8727e_1
 requests=2.28.1=py39h06a4308_0
 scipy=1.7.3=py39h6c91a56_2
-sdeint=0.3.0=pypi_0
 seaborn=0.11.2=pyhd3eb1b0_0
 send2trash=1.8.0=pyhd3eb1b0_1
 setuptools=63.4.1=py39h06a4308_0
